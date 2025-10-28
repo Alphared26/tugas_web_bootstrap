@@ -1,4 +1,4 @@
 ---
 #check on
 
-https://alphared-bootstrap.netlify.app/#gallery
+https://alphared-bootstrap.netlify.app/
